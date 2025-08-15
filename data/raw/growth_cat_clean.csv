@@ -1,0 +1,261 @@
+﻿country,category,growth_cat,cum_inflation_20_23,growth_cat_clean
+Austria,"Alcoholic beverages, tobacco and narcotics",25%,14%,11%
+Belgium,"Alcoholic beverages, tobacco and narcotics",27%,25%,2%
+Bulgaria,"Alcoholic beverages, tobacco and narcotics",59%,13%,46%
+Cyprus,"Alcoholic beverages, tobacco and narcotics",16%,3%,12%
+Czech_Republic,"Alcoholic beverages, tobacco and narcotics",38%,32%,6%
+Denmark,"Alcoholic beverages, tobacco and narcotics",15%,28%,-13%
+Estonia,"Alcoholic beverages, tobacco and narcotics",31%,14%,17%
+European_Union,"Alcoholic beverages, tobacco and narcotics",22%,20%,1%
+France,"Alcoholic beverages, tobacco and narcotics",14%,21%,-7%
+Germany,"Alcoholic beverages, tobacco and narcotics",18%,20%,-2%
+Hungary,"Alcoholic beverages, tobacco and narcotics",36%,51%,-15%
+Ireland,"Alcoholic beverages, tobacco and narcotics",13%,18%,-5%
+Italy,"Alcoholic beverages, tobacco and narcotics",14%,7%,7%
+Latvia,"Alcoholic beverages, tobacco and narcotics",32%,17%,15%
+Malta,"Alcoholic beverages, tobacco and narcotics",40%,5%,35%
+Netherlands,"Alcoholic beverages, tobacco and narcotics",26%,25%,1%
+Portugal,"Alcoholic beverages, tobacco and narcotics",28%,8%,20%
+Slovenia,"Alcoholic beverages, tobacco and narcotics",22%,20%,1%
+Spain,"Alcoholic beverages, tobacco and narcotics",17%,13%,4%
+Sweden,"Alcoholic beverages, tobacco and narcotics",0%,11%,-12%
+Austria,Clothing and footwear,8%,8%,0%
+Belgium,Clothing and footwear,16%,9%,7%
+Bulgaria,Clothing and footwear,86%,11%,76%
+Cyprus,Clothing and footwear,50%,6%,45%
+Czech_Republic,Clothing and footwear,54%,45%,8%
+Denmark,Clothing and footwear,12%,3%,9%
+Estonia,Clothing and footwear,41%,18%,23%
+European_Union,Clothing and footwear,8%,8%,-1%
+France,Clothing and footwear,-4%,5%,-9%
+Germany,Clothing and footwear,-1%,8%,-9%
+Hungary,Clothing and footwear,38%,15%,23%
+Ireland,Clothing and footwear,46%,-1%,47%
+Italy,Clothing and footwear,2%,7%,-5%
+Latvia,Clothing and footwear,50%,9%,41%
+Malta,Clothing and footwear,26%,6%,20%
+Netherlands,Clothing and footwear,35%,14%,21%
+Portugal,Clothing and footwear,16%,-2%,18%
+Slovenia,Clothing and footwear,30%,5%,25%
+Spain,Clothing and footwear,-1%,2%,-3%
+Sweden,Clothing and footwear,-3%,16%,-18%
+Austria,Communications,24%,-9%,33%
+Belgium,Communications,14%,3%,11%
+Bulgaria,Communications,75%,2%,73%
+Cyprus,Communications,25%,-3%,28%
+Czech_Republic,Communications,39%,0%,39%
+Denmark,Communications,20%,0%,20%
+Estonia,Communications,49%,-3%,52%
+European_Union,Communications,16%,0%,17%
+France,Communications,15%,-2%,17%
+Germany,Communications,14%,-2%,16%
+Hungary,Communications,10%,7%,3%
+Ireland,Communications,34%,-3%,36%
+Italy,Communications,5%,-10%,15%
+Latvia,Communications,50%,10%,40%
+Malta,Communications,41%,-5%,46%
+Netherlands,Communications,13%,-5%,18%
+Portugal,Communications,20%,4%,16%
+Slovenia,Communications,36%,-2%,38%
+Spain,Communications,17%,-2%,20%
+Sweden,Communications,16%,-5%,21%
+Austria,Education,18%,13%,5%
+Belgium,Education,15%,6%,9%
+Bulgaria,Education,77%,28%,49%
+Cyprus,Education,41%,4%,36%
+Czech_Republic,Education,69%,18%,51%
+Denmark,Education,15%,12%,3%
+Estonia,Education,54%,19%,35%
+European_Union,Education,15%,9%,6%
+France,Education,22%,11%,10%
+Germany,Education,26%,6%,19%
+Hungary,Education,29%,25%,4%
+Ireland,Education,16%,-4%,20%
+Italy,Education,-2%,-2%,-1%
+Latvia,Education,23%,14%,8%
+Malta,Education,69%,17%,52%
+Netherlands,Education,43%,7%,36%
+Portugal,Education,11%,3%,8%
+Slovenia,Education,22%,9%,14%
+Spain,Education,-7%,4%,-11%
+Sweden,Education,9%,4%,5%
+Austria,Food and non-alcoholic beverages,30%,27%,3%
+Belgium,Food and non-alcoholic beverages,20%,27%,-7%
+Bulgaria,Food and non-alcoholic beverages,76%,50%,27%
+Cyprus,Food and non-alcoholic beverages,41%,20%,21%
+Czech_Republic,Food and non-alcoholic beverages,46%,38%,8%
+Denmark,Food and non-alcoholic beverages,29%,22%,7%
+Estonia,Food and non-alcoholic beverages,59%,44%,15%
+European_Union,Food and non-alcoholic beverages,33%,31%,2%
+France,Food and non-alcoholic beverages,25%,24%,2%
+Germany,Food and non-alcoholic beverages,36%,34%,2%
+Hungary,Food and non-alcoholic beverages,45%,75%,-31%
+Ireland,Food and non-alcoholic beverages,36%,15%,20%
+Italy,Food and non-alcoholic beverages,23%,23%,0%
+Latvia,Food and non-alcoholic beverages,61%,44%,16%
+Malta,Food and non-alcoholic beverages,47%,28%,19%
+Netherlands,Food and non-alcoholic beverages,44%,26%,18%
+Portugal,Food and non-alcoholic beverages,42%,28%,15%
+Slovenia,Food and non-alcoholic beverages,46%,30%,16%
+Spain,Food and non-alcoholic beverages,25%,30%,-5%
+Sweden,Food and non-alcoholic beverages,20%,29%,-9%
+Austria,"Furnishings, household equipment and routine household maintenance",14%,19%,-5%
+Belgium,"Furnishings, household equipment and routine household maintenance",16%,13%,3%
+Bulgaria,"Furnishings, household equipment and routine household maintenance",98%,24%,74%
+Cyprus,"Furnishings, household equipment and routine household maintenance",38%,10%,28%
+Czech_Republic,"Furnishings, household equipment and routine household maintenance",45%,28%,18%
+Denmark,"Furnishings, household equipment and routine household maintenance",4%,11%,-7%
+Estonia,"Furnishings, household equipment and routine household maintenance",65%,31%,34%
+European_Union,"Furnishings, household equipment and routine household maintenance",22%,17%,5%
+France,"Furnishings, household equipment and routine household maintenance",14%,15%,0%
+Germany,"Furnishings, household equipment and routine household maintenance",17%,17%,0%
+Hungary,"Furnishings, household equipment and routine household maintenance",47%,41%,6%
+Ireland,"Furnishings, household equipment and routine household maintenance",45%,2%,43%
+Italy,"Furnishings, household equipment and routine household maintenance",18%,13%,5%
+Latvia,"Furnishings, household equipment and routine household maintenance",57%,23%,33%
+Malta,"Furnishings, household equipment and routine household maintenance",38%,13%,25%
+Netherlands,"Furnishings, household equipment and routine household maintenance",51%,20%,32%
+Portugal,"Furnishings, household equipment and routine household maintenance",39%,14%,25%
+Slovenia,"Furnishings, household equipment and routine household maintenance",34%,19%,14%
+Spain,"Furnishings, household equipment and routine household maintenance",16%,13%,3%
+Sweden,"Furnishings, household equipment and routine household maintenance",19%,25%,-7%
+Austria,Health,16%,12%,4%
+Belgium,Health,41%,7%,34%
+Bulgaria,Health,71%,19%,52%
+Cyprus,Health,-30%,3%,-34%
+Czech_Republic,Health,75%,25%,50%
+Denmark,Health,21%,7%,14%
+Estonia,Health,65%,25%,41%
+European_Union,Health,26%,9%,17%
+France,Health,13%,1%,12%
+Germany,Health,23%,6%,18%
+Hungary,Health,28%,31%,-3%
+Ireland,Health,33%,6%,27%
+Italy,Health,17%,4%,14%
+Latvia,Health,48%,24%,23%
+Malta,Health,77%,10%,67%
+Netherlands,Health,29%,10%,19%
+Portugal,Health,43%,4%,39%
+Slovenia,Health,61%,19%,42%
+Spain,Health,15%,4%,10%
+Sweden,Health,7%,7%,-1%
+Austria,"Housing, water, electricity, gas and other fuels",38%,35%,3%
+Belgium,"Housing, water, electricity, gas and other fuels",34%,17%,17%
+Bulgaria,"Housing, water, electricity, gas and other fuels",52%,33%,18%
+Cyprus,"Housing, water, electricity, gas and other fuels",68%,32%,36%
+Czech_Republic,"Housing, water, electricity, gas and other fuels",70%,59%,11%
+Denmark,"Housing, water, electricity, gas and other fuels",19%,16%,2%
+Estonia,"Housing, water, electricity, gas and other fuels",93%,79%,14%
+European_Union,"Housing, water, electricity, gas and other fuels",25%,28%,-3%
+France,"Housing, water, electricity, gas and other fuels",19%,19%,0%
+Germany,"Housing, water, electricity, gas and other fuels",23%,24%,-1%
+Hungary,"Housing, water, electricity, gas and other fuels",58%,36%,22%
+Ireland,"Housing, water, electricity, gas and other fuels",56%,43%,13%
+Italy,"Housing, water, electricity, gas and other fuels",15%,45%,-30%
+Latvia,"Housing, water, electricity, gas and other fuels",38%,54%,-16%
+Malta,"Housing, water, electricity, gas and other fuels",70%,19%,51%
+Netherlands,"Housing, water, electricity, gas and other fuels",29%,26%,3%
+Portugal,"Housing, water, electricity, gas and other fuels",24%,14%,10%
+Slovenia,"Housing, water, electricity, gas and other fuels",38%,31%,7%
+Spain,"Housing, water, electricity, gas and other fuels",15%,10%,5%
+Sweden,"Housing, water, electricity, gas and other fuels",7%,14%,-7%
+Austria,Insurance and Finance,38%,,38%
+Belgium,Insurance and Finance,83%,,83%
+Bulgaria,Insurance and Finance,49%,,49%
+Cyprus,Insurance and Finance,85%,,85%
+Czech_Republic,Insurance and Finance,74%,,74%
+Denmark,Insurance and Finance,44%,,44%
+Estonia,Insurance and Finance,27%,,27%
+European_Union,Insurance and Finance,58%,,58%
+France,Insurance and Finance,63%,,63%
+Germany,Insurance and Finance,23%,,23%
+Hungary,Insurance and Finance,114%,,114%
+Ireland,Insurance and Finance,183%,,183%
+Italy,Insurance and Finance,62%,,62%
+Latvia,Insurance and Finance,118%,,118%
+Malta,Insurance and Finance,270%,,270%
+Netherlands,Insurance and Finance,69%,,69%
+Portugal,Insurance and Finance,43%,,43%
+Slovenia,Insurance and Finance,90%,,90%
+Spain,Insurance and Finance,103%,,103%
+Sweden,Insurance and Finance,27%,,27%
+Austria,Miscellaneous goods and services,25%,15%,11%
+Belgium,Miscellaneous goods and services,28%,14%,14%
+Bulgaria,Miscellaneous goods and services,78%,25%,53%
+Cyprus,Miscellaneous goods and services,34%,9%,26%
+Czech_Republic,Miscellaneous goods and services,50%,29%,21%
+Denmark,Miscellaneous goods and services,20%,12%,8%
+Estonia,Miscellaneous goods and services,59%,27%,31%
+European_Union,Miscellaneous goods and services,28%,15%,13%
+France,Miscellaneous goods and services,18%,10%,8%
+Germany,Miscellaneous goods and services,33%,15%,18%
+Hungary,Miscellaneous goods and services,24%,33%,-9%
+Ireland,Miscellaneous goods and services,46%,-1%,47%
+Italy,Miscellaneous goods and services,20%,9%,11%
+Latvia,Miscellaneous goods and services,54%,26%,29%
+Malta,Miscellaneous goods and services,66%,11%,55%
+Netherlands,Miscellaneous goods and services,36%,16%,19%
+Portugal,Miscellaneous goods and services,29%,7%,22%
+Slovenia,Miscellaneous goods and services,38%,15%,23%
+Spain,Miscellaneous goods and services,19%,11%,8%
+Sweden,Miscellaneous goods and services,8%,17%,-8%
+Austria,Recreation and culture,26%,16%,10%
+Belgium,Recreation and culture,24%,12%,11%
+Bulgaria,Recreation and culture,78%,19%,59%
+Cyprus,Recreation and culture,30%,12%,18%
+Czech_Republic,Recreation and culture,64%,29%,36%
+Denmark,Recreation and culture,16%,9%,7%
+Estonia,Recreation and culture,56%,33%,23%
+European_Union,Recreation and culture,29%,14%,15%
+France,Recreation and culture,24%,9%,15%
+Germany,Recreation and culture,29%,13%,15%
+Hungary,Recreation and culture,75%,32%,43%
+Ireland,Recreation and culture,50%,13%,37%
+Italy,Recreation and culture,19%,7%,12%
+Latvia,Recreation and culture,39%,21%,18%
+Malta,Recreation and culture,46%,15%,31%
+Netherlands,Recreation and culture,38%,14%,24%
+Portugal,Recreation and culture,21%,5%,16%
+Slovenia,Recreation and culture,44%,11%,34%
+Spain,Recreation and culture,32%,9%,22%
+Sweden,Recreation and culture,16%,12%,4%
+Austria,Restaurants and hotels,33%,31%,2%
+Belgium,Restaurants and hotels,35%,20%,15%
+Bulgaria,Restaurants and hotels,72%,34%,39%
+Cyprus,Restaurants and hotels,41%,13%,27%
+Czech_Republic,Restaurants and hotels,43%,50%,-7%
+Denmark,Restaurants and hotels,26%,20%,6%
+Estonia,Restaurants and hotels,52%,26%,26%
+European_Union,Restaurants and hotels,35%,21%,14%
+France,Restaurants and hotels,45%,12%,33%
+Germany,Restaurants and hotels,28%,22%,6%
+Hungary,Restaurants and hotels,73%,64%,9%
+Ireland,Restaurants and hotels,53%,19%,34%
+Italy,Restaurants and hotels,17%,16%,0%
+Latvia,Restaurants and hotels,54%,31%,23%
+Malta,Restaurants and hotels,62%,13%,48%
+Netherlands,Restaurants and hotels,48%,24%,24%
+Portugal,Restaurants and hotels,50%,26%,25%
+Slovenia,Restaurants and hotels,58%,25%,33%
+Spain,Restaurants and hotels,33%,16%,17%
+Sweden,Restaurants and hotels,21%,19%,2%
+Austria,Transport,18%,23%,-5%
+Belgium,Transport,17%,21%,-4%
+Bulgaria,Transport,52%,22%,30%
+Cyprus,Transport,15%,16%,-1%
+Czech_Republic,Transport,35%,27%,8%
+Denmark,Transport,21%,15%,6%
+Estonia,Transport,42%,26%,16%
+European_Union,Transport,26%,20%,6%
+France,Transport,22%,17%,5%
+Germany,Transport,29%,21%,8%
+Hungary,Transport,40%,44%,-4%
+Ireland,Transport,12%,19%,-8%
+Italy,Transport,21%,16%,4%
+Latvia,Transport,34%,24%,10%
+Malta,Transport,41%,8%,33%
+Netherlands,Transport,41%,20%,21%
+Portugal,Transport,32%,13%,20%
+Slovenia,Transport,42%,16%,26%
+Spain,Transport,14%,15%,0%
+Sweden,Transport,9%,22%,-14%
