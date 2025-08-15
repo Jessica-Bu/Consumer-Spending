@@ -4,6 +4,7 @@ The main question of this project was:
 
 How has consumer spending changed in the past 10 years?
 
+
 Why is that interesting?
 
 Because our economy has faced major shifts especially in the past 5 years:
@@ -12,9 +13,11 @@ Because our economy has faced major shifts especially in the past 5 years:
 - Consumer values
 - Consumer spending
 
+
 Why is this relevant?
 
 Because all kinds of companies face these shifts and need to find strategies to navegate through the new landscape.
+
 
 Project Structure :
 -	Data collecting and cleaning in Jupyter Notebook
@@ -23,11 +26,13 @@ Project Structure :
 -	Exploratory Data Analysis in Power BI
 -	Presentation
 
-Presentation [\[here\]](https://docs.google.com/presentation/d/1bQGMRRj_ibNDVir5V9W-73HA4dhM9laqniY2_2Eh_bY/edit?slide=id.g3642204686f_0_0#slide=id.g3642204686f_0_0).
+Presentation [here](https://docs.google.com/presentation/d/1bQGMRRj_ibNDVir5V9W-73HA4dhM9laqniY2_2Eh_bY/edit?slide=id.g3642204686f_0_0#slide=id.g3642204686f_0_0).
+
 
 Data Source:
 
 [Eurostat](https://ec.europa.eu/eurostat/web/main/home) is the statistical office of the European Union. I collected data about Consumption, Income, Inflation and Saving.
+
 
 GitHub structure:
 
