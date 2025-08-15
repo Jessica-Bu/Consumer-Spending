@@ -23,11 +23,11 @@ Project Structure :
 -	Exploratory Data Analysis in Power BI
 -	Presentation
 
-Presentation here: [\[here\]](https://docs.google.com/presentation/d/1bQGMRRj_ibNDVir5V9W-73HA4dhM9laqniY2_2Eh_bY/edit?slide=id.g3642204686f_0_0#slide=id.g3642204686f_0_0)
+Presentation [\[here\]](https://docs.google.com/presentation/d/1bQGMRRj_ibNDVir5V9W-73HA4dhM9laqniY2_2Eh_bY/edit?slide=id.g3642204686f_0_0#slide=id.g3642204686f_0_0).
 
 Data Source:
 
-Eurostat ([Eurostat](https://ec.europa.eu/eurostat/web/main/home)) is the statistical office of the European Union. I collected data about Consumption, Income, Inflation and Saving.
+[Eurostat](https://ec.europa.eu/eurostat/web/main/home) is the statistical office of the European Union. I collected data about Consumption, Income, Inflation and Saving.
 
 GitHub structure:
 
